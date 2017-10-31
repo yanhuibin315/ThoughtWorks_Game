@@ -1,0 +1,12 @@
+Reminder
+=============
+
+* Time-related maintenance coming soon...
+Porsche: 1 CAR0003
+
+* Distance-related maintenance coming soon...
+Porsche: 1 CAR0001
+BYD: 1 CAR0005
+Ford: 1 CAR0007
+
+* Write-off coming soon...
